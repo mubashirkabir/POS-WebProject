@@ -1,0 +1,10 @@
+body {
+    background: #f7f9fc;
+    color: #404142;
+}
+
+#addProductForm {
+    display: inline-block;
+}
+
+@media (min-width:885px) {}
